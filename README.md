@@ -1,7 +1,7 @@
 Log4j Appender implementation for Windows Azure storage
 =======================================================
 
-Use Log4j and Windows Azure storage for logging
+Use Log4j and Windows Azure storage for logging. See [Project Documentation](http://jmayrbaeurl.github.io/azure-log4j/)
 
 Configuration
 -------------
